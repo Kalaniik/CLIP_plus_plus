@@ -89,7 +89,7 @@ CLIP++ extends the original CLIP architecture with:
 
 ## License
 
-MIT License
+Apache-2.0 License
 
 ## Citation
 
