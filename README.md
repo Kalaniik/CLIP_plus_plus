@@ -91,6 +91,21 @@ CLIP++ extends the original CLIP architecture with:
 
 Apache-2.0 License
 
+## Acknowledgements
+This project builds upon several foundational works in the field of prompt learning and visual-language pretraining. I sincerely thank the authors of the following methods for open-sourcing their code, which greatly facilitated our development.
+
+If you use this repository, i encourage you to also cite the original papers and codebases listed below:
+
+| Method       | Paper                                                   | Venue      | Code Link |
+| ------------ | ------------------------------------------------------- | ---------- | --------- |
+| CoOp         | [Learning to Prompt for Vision-Language Models](https://arxiv.org/abs/2109.01134)                                 | IJCV  2022  |  [link](https://github.com/KaiyangZhou/CoOp)  |
+| CoCoOp       | [Conditional Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2203.05557)                        | CVPR  2022  |  [link](https://github.com/KaiyangZhou/CoOp)  |
+| VPT          | [Exploring Visual Prompts for Adapting Large-Scale Models](https://arxiv.org/abs/2203.17274)                      | ECCV  2022  |  [link](https://github.com/KMnP/vpt)  |
+| MaPLe        | [MaPLe: Multi-modal Prompt Learning](https://arxiv.org/abs/2210.03117)                                            | CVPR  2023  |  [link](https://github.com/muzairkhattak/multimodal-prompt-learning)  |
+| DAPL         | [Domain Adaptation via Prompt Learning](https://arxiv.org/abs/2202.06687)                                         | TNNLS 2023  |  [link](https://github.com/LeapLabTHU/DAPrompt)  |
+| PDA          | [Prompt-based Distribution Alignment for Unsupervised Domain Adaptation](https://arxiv.org/abs/2312.09553)        | AAAI  2024  |  [link](https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment)  |
+
+
 ## Citation
 
 If you use this code in your research, please cite:
