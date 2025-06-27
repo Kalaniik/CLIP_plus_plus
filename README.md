@@ -101,6 +101,6 @@ If you use this code in your research, please cite:
   author={Guo Kai},
   year={2025},
   publisher={GitHub},
-  url={https://github.com/your-username/clip-plus-plus}
+  url={https://github.com/Kalaniik/CLIP_plus_plus}
 }
 ``` 
